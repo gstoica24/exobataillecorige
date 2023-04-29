@@ -1,0 +1,9 @@
+{
+    "name": "acs/bataille",
+    "autoload": {
+        "psr-4": {
+            "src\\": "src/"
+        }
+    },
+    "require": {}
+}
